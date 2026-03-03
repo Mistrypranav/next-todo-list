@@ -100,7 +100,7 @@ export default function Home() {
         </div>
 
         <div className="mt-6 text-center text-gray-600 text-sm">
-          <p>🐳 Dockerized | ☸️ Kubernetes | 🔄 GitLab CI/CD</p>
+          <p>🐳 Dockerized | ☸️ Kubernetes | 🔄 GitLab CI/CD | Git/GitHub</p>
         </div>
       </div>
     </main>
